@@ -1,0 +1,19 @@
+1,Java,Easy,2 bytes,4 bytes,8 bytes,16 bytes,What is the size of an int in Java?,4 bytes
+2,Python,Easy,function,def,lambda,fun,Which keyword is used to define a function in Python?,def
+3,JavaScript,Easy,object,null,undefined,string,What does typeof null return in JavaScript?,object
+4,Java,Easy,true,false,0,null,What is the default value of a boolean variable in Java?,false
+5,Python,Easy,input(),raw_input(),get(),read(),Which function is used to read user input in Python 3?,input()
+6,JavaScript,Medium,No difference,"== checks type and value, === only checks value","== performs type coercion, === does not","=== performs type coercion, == does not",What is the difference between == and === in JavaScript?,"== performs type coercion, === does not"
+7,Java,Medium,class,interface,extends,include,Which of the following is not a keyword in Java?,include
+8,Python,Medium,6,8,9,Error,What is the output of print(2 ** 3) in Python?,8
+9,JavaScript,Medium,A keyword,A variable,A value representing Not-a-Number,None of the above,What is NaN in JavaScript?,A value representing Not-a-Number
+10,Java,Medium,byte,int,boolean,String,Which of the following is not a primitive data type in Java?,String
+11,Python,Hard,"[1, 2, 3]","[1, 2, 3, 1, 2, 3]",6,Error,"What will the output of the following code be? a = [1, 2, 3] print(a * 2)","[1, 2, 3, 1, 2, 3]"
+12,JavaScript,Hard,The function itself,The global object,The parent object,Undefined,What does the this keyword refer to in a regular function?,The global object
+13,Java,Hard,By extending Thread class,By implementing Runnable interface,Both 1 and 2,None of the above,Which of these is the correct way to create a thread in Java?,Both 1 and 2
+14,Python,Hard,Value only,Memory location only,Both value and memory location,Type,What does the is keyword compare in Python?,Memory location only
+15,JavaScript,Hard,let,var,const,constant,How can you define a constant variable in JavaScript?,const
+16,Java,Easy,1 bytes,4 bytes,2 bytes,16 bytes,What is the size of an int in Java?,4 bytes
+17,Java,medium,1 bytes,4 bytes,2 bytes,16 bytes,What is the size of an int in Java?,4 bytes
+18,Java,medium,1 bytes,4 bytes,2 bytes,16 bytes,What is the size of an int in Java?,4 bytes
+19,Java,medium,1 bytes,4 bytes,2 bytes,16 bytes,What is the size of an int in Java?,4 bytes
